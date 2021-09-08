@@ -1,5 +1,5 @@
 # multithreaded-find-most-divisors
-My solution for Chapter  Exercise  of “Introduction to Programming Using Java”.
+My solution for Chapter 12 Exercise 2 of “Introduction to Programming Using Java”.
 
 Problem Description:
 Exercise 3.2 asked you to find the integer in the range 1 to 10000 that has the largest
